@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1,Film Një HD
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/43
+#EXTINF:-1,Film Dy HD
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/44
+#EXTINF:-1,Film Aksion HD
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/45
+#EXTINF:-1,Film Autor HD
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/46
+#EXTINF:-1,Film Drame HD
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/47
+#EXTINF:-1,Film Hits HD
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/48
+#EXTINF:-1,Film Komedi HD
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/49
+#EXTINF:-1,Film Thriller HD
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/50
+#EXTINF:-1,Digi Gold 1
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/51
+#EXTINF:-1,Digi Gold 2
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/52
+#EXTINF:-1,Digi Gold 3
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/53
+#EXTINF:-1,Tring Super
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/75
+#EXTINF:-1,Sky Max
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/139
+#EXTINF:-1,NETFLIX Aksion
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1536
+#EXTINF:-1,KS Filma Aksion
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1271
+#EXTINF:-1,KS Filma Drame
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1272
+#EXTINF:-1,KS Filma Aventure
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1273
+#EXTINF:-1,KS Filma Romance
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1274
+#EXTINF:-1,KS Filma Krim
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1275
+#EXTINF:-1,KS Filma Triller
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1276
+#EXTINF:-1,KS Filma Mister
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1277
+#EXTINF:-1,KS Filma Horror
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1278
+#EXTINF:-1,KS Filma SCI-Fi
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1279
+#EXTINF:-1,KS Filma Western
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1280
+#EXTINF:-1,KS Filma Hindi
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1281
+#EXTINF:-1,KS Filma Aziatika
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1282
+#EXTINF:-1,KS Filma Familjar
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1283
+#EXTINF:-1,KS Filma Premiere
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1284
+#EXTINF:-1,KS Filma Oscars
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1285
+#EXTINF:-1,KS Filma Animacion
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1286
+#EXTINF:-1,KS ACTION
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1209
+#EXTINF:-1,KS PREMIER 1 HD
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/143
+#EXTINF:-1,KS PREMIER 2 HD
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1218
+#EXTINF:-1,Extra Film Max
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1578
+#EXTINF:-1,Extra Film Action
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1579
+#EXTINF:-1,Extra Film Komedi
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1580
+#EXTINF:-1,Extra Film Dramë
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1581
+#EXTINF:-1,TELE one 1
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1731
+#EXTINF:-1,Tele ONE 2
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1732
+#EXTINF:-1,Tele ONE 3
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1733
+#EXTINF:-1,Tele ONE 4
+http://tv.extraiptv.eu:888/MesudShabani/hJjQbCSKjO/1734
